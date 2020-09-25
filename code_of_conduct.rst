@@ -9,15 +9,15 @@ Effective date: August 6, 2019
    against the law, please notify appropriate emergency services first by
    calling the relevant local authorities. If you are unsure what service
    or agency is appropriate to contact, include this `in your
-   report <conduct_of_conduct/reporting_guidelines.rst>`__ and we will
+   report <code_of_conduct/reporting_guidelines.rst>`__ and we will
    attempt to notify them.
 
 .. IMPORTANT::
 
    If you believe someone is violating the Code of Conduct, we ask that you
    `follow our reporting
-   guidelines <conduct_of_conduct/reporting_guidelines.rst>`__ and report
-   it to the `CARE team <conduct_of_conduct/care_team.rst>`__.
+   guidelines <code_of_conduct/reporting_guidelines.rst>`__ and report
+   it to the `CARE team <code_of_conduct/care_team.rst>`__.
 
 Our Pledge
 ----------
@@ -55,13 +55,13 @@ Examples of unacceptable behavior by participants include:
    professional setting
 
 For more concrete examples of unacceptable behavior, see our `Concrete
-Examples Document <conduct_of_conduct/concrete_examples.rst>`__.
+Examples Document <code_of_conduct/concrete_examples.rst>`__.
 
 Our Responsibilities
 --------------------
 
 `CoC Active Response Ensurers, or
-CARE <conduct_of_conduct/care_team.rst>`__, are responsible for
+CARE <code_of_conduct/care_team.rst>`__, are responsible for
 clarifying the standards of acceptable behavior and are expected to
 take appropriate and fair corrective action in response to any instances
 of unacceptable behavior.
@@ -87,8 +87,8 @@ Enforcement
 -----------
 
 Instances of abusive, harassing, or otherwise unacceptable behavior `may
-be reported <conduct_of_conduct/reporting_guidelines.rst>`__ by contacting
-the `CARE team members <conduct_of_conduct/care_team.rst>`__. All complaints
+be reported <code_of_conduct/reporting_guidelines.rst>`__ by contacting
+the `CARE team members <code_of_conduct/care_team.rst>`__. All complaints
 will be reviewed and investigated and will result in a response that is
 deemed necessary and appropriate to the circumstances. The CARE team is
 obligated to maintain confidentiality with regard to the reporter of an
