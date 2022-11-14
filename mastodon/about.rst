@@ -1,27 +1,38 @@
 .. This is the text for the "About" page at https://phpc.social/about/more.
 
-Welcome to PHP Community on Mastodon!
--------------------------------------
+Welcome
+-------
 
-We provide a place for PHP programmers & friends to discuss topics
-related to the PHP programming language, frameworks, packages, tools,
-open source, tech, life, and more. First and foremost, we're about
-building community, and that doesn't always involve technical
-discussion, so feel free to go off-topic and have fun.
+Welcome to the PHP community on Mastodon! We provide a place for PHP
+programmers & friends to discuss topics related to the PHP programming
+language, frameworks, packages, tools, open source, tech, life, and
+more. First and foremost, we're about building community, and that
+doesn't always involve technical discussion, so feel free to go
+off-topic and have fun.
 
-Who Runs This Server?
----------------------
+Who's Behind This?
+------------------
 
-Since this is asked often, `Ben Ramsey <https://phpc.social/@ramsey>`__
-is the primary administrator of this Mastodon server, and he pays for
-the server out of his own funds. If you’d like to help with costs, feel
-free to contact him. His commitment to you is this:
+phpc.social is a `PHP Commmunity Foundation <https://phpcommunity.org>`_
+project. PHP Community Foundation created phpc.social for the public
+benefit of the PHP community.
 
-“phpc.social is for the public benefit of the PHP community. I will
-never turn it off or shut it down. I will seek help from the community
-with finances and server maintenance, if either becomes an issue, and
-should anything happen to me that prevents me from continuing the
-service, I will have a contingency plan in place to ensure continuity.”
+How Can I Help?
+---------------
+
+Thank you for your willingness to help! We appreciate it. Here are some
+areas we could use your help:
+
+- Contribute financially by donating through the `phpc.social Open Collective
+  project <https://opencollective.com/phpcommunity/projects/phpc-social>`_.
+
+- Volunteer as a moderator—get to know our community first! A moderator
+  is a position of trust, so we need to know you're legit and planning to
+  stick around.
+
+- Server administration—our servers are currently hosted with `Masto.host
+  <https://masto.host>`_, so we're not in need of help right now, but
+  we'll let you know if that changes.
 
 Code of Conduct
 ---------------
