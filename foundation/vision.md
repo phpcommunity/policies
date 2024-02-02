@@ -55,6 +55,11 @@ programming language community, user groups, conferences, and open source
 projects related to PHP through a variety of programs, including but not
 limited to grants, advocacy, mentoring, training, and networking.
 
+To wrap it up, we aim to create a community that supports PHP-related resources 
+and the people who drive them. Such examples include, but are not limited to, 
+forums, Discord/YouTube/other channels, conferences/meetups, 
+and contributors/maintainers.
+
 
 ## Our Mission
 
@@ -345,7 +350,7 @@ info@phpcommunity.org \
 [^7]: According to PHP core developer Joe Watkins, the bus factor is the number
       of people who can leave a project before a significant and detrimental
       loss of expertise and resources occur. For PHP, that number is extremely
-      low: 2. https://blog.krakjoe.ninja/2021/05/avoiding-busses.html
+      low: 2. https://blog.krakjoe.ninja/2021/05/avoiding-busses.html [alternative-link](https://web.archive.org/web/20221129120821/https://blog.krakjoe.ninja/2021/05/avoiding-busses.html)
 
 [^8]: For more details on The PHP Foundation, see their website at
       https://thephp.foundation and the JetBrains announcement at
