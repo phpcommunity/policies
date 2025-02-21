@@ -1,10 +1,10 @@
-.. These are the terms of service displayed at https://phpc.social/terms.
+.. These are the terms of service displayed at https://phpc.social/privacy-policy.
 
 ================
 Terms of Service
 ================
 
-*Last updated 21 February 2024.*
+*Last updated 21 February 2025.*
 
 Privacy Policy
 ==============
@@ -135,8 +135,13 @@ Applications can never access your e-mail address or password.
 Site usage by children
 ----------------------
 
-Our site, products and services are all directed to people who are at least 16 years old. If you are under the age of 16, per the requirements of the GDPR (`General Data Protection Regulation <https://en.wikipedia.org/wiki/General_Data_Protection_Regulation>`_)
-do not use this site.
+Our site, products and services are all directed to people who are at least 18
+years old. If you are under the age of 18, per the requirements of the GDPR
+(`General Data Protection Regulation
+<https://en.wikipedia.org/wiki/General_Data_Protection_Regulation>`_) and the
+`Online Safety Act 2023
+<https://en.wikipedia.org/wiki/Online_Safety_Act_2023>`_, do not use this
+site.
 
 DMCA Policy
 ===========
